@@ -1,10 +1,8 @@
 package Java_Question;
-import java.io.*;
+
 import java.util.*;
-import java.lang.*;
-/*
-	
-*/
+
+
 public class StepNumber
 {
 	public static String isStepNumber(int input1)
