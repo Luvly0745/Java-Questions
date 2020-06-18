@@ -1,7 +1,7 @@
 # Java-Questions
 #Q1. To find the Distinct object in an Array in java.
 A={0,1,2,3,4,0,2,1,4}
-Output: 5
+Output: 5====------------------------------------
 #Q2.If input is a step number then output would be input1-true, else input1-false. 
 Ex. input= 67898 
      output=67898-true
