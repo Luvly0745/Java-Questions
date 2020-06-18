@@ -9,7 +9,6 @@ public class StepNumber
 	{
 		String f=input1+"-false";
 		String t=input1+"-true";
-		int l=1;
 		int c=0;
 		String s = Integer.toString(input1);
 		while(input1>0)
